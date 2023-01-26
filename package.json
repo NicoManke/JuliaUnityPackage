@@ -1,0 +1,22 @@
+{
+  "name": "com.nico-manke.julia-unity-package",
+  "version": "1.0.0",
+  "displayName": "Julia Unity Package",
+  "description": "This package for the Unity engine allows the user to use and access code written in the Julia programming language.\nDeveloped with Julia 1.6.3 and therefore the recommended version.",
+  "unity": "2021.3",
+  "unityRelease": "11f1",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "keywords": [
+    "Julia",
+    "Interface",
+    "Data Model"
+  ],
+  "author": {
+    "name": "Nico Manke",
+    "email": "nicomanke.de@gmail.com",
+    "url": "https://github.com/NicoManke"
+  },
+  "type": "plugin"
+}

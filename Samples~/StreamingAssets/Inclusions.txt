@@ -1,0 +1,41 @@
+#include operations for Julia
+#use: Base.include(Main, "C:/the/actual/path/of/the/file/filename.jl")
+#
+# DO NOT change JuliaScripts/helper.jl
+#JuliaScripts/helper.jl
+#
+counter.jl
+load_dependencies.jl
+CHARISMA_function.jl
+CHARISMA_Unity_function.jl
+structs.jl
+defaults.jl
+input.jl
+functions.jl
+run_simulation.jl
+output.jl
+reset_directory.jl
+#
+#Base.include(Main, "D:/WS21/GameLabII-WS21/Plugin/code/UnityCode/JuliaPlugin/Assets/Scripts/JuliaScripts/test_me_module.jl")
+#Base.include(Main, "D:/WS21/GameLabII-WS21/Plugin/code/UnityCode/JuliaPlugin/Assets/Scripts/JuliaScripts/inclusions.jl")
+#Base.include(Main, "D:/WS21/GameLabII-WS21/Plugin/code/UnityCode/JuliaPlugin/Assets/Scripts/JuliaScripts/test_no_module.jl")
+#Base.include(Main, "D:/WS21/GameLabII-WS21/Plugin/code/UnityCode/JuliaPlugin/Assets/Scripts/JuliaScripts/test_arrays.jl")
+#Base.include(Main, "D:/WS21/GameLabII-WS21/Plugin/code/UnityCode/JuliaPlugin/Assets/Scripts/JuliaScripts/helper.jl")
+#Base.include(Main, "D:/WS21/GameLabII-WS21/Plugin/code/UnityCode/JuliaPlugin/Assets/counter.jl")
+#
+#Base.include(Main, "D:/WS21/GameLabII-WS21/Plugin/code/UnityCode/JuliaPlugin/Assets/load_dependencies.jl")
+#
+#Base.include(Main, "D:/WS21/GameLabII-WS21/Plugin/code/UnityCode/JuliaPlugin/Assets/CHARISMA_function.jl")
+#Base.include(Main, "D:/WS21/GameLabII-WS21/Plugin/code/UnityCode/JuliaPlugin/Assets/CHARISMA_Unity_function.jl")
+# including following CHARISMA functions using this method, because CHARISMA_function doesn't do it
+#Base.include(Main, "D:/WS21/GameLabII-WS21/Plugin/code/UnityCode/JuliaPlugin/Assets/structs.jl")
+#Base.include(Main, "D:/WS21/GameLabII-WS21/Plugin/code/UnityCode/JuliaPlugin/Assets/defaults.jl")
+#Base.include(Main, "D:/WS21/GameLabII-WS21/Plugin/code/UnityCode/JuliaPlugin/Assets/input.jl")
+#Base.include(Main, "D:/WS21/GameLabII-WS21/Plugin/code/UnityCode/JuliaPlugin/Assets/functions.jl")
+#Base.include(Main, "D:/WS21/GameLabII-WS21/Plugin/code/UnityCode/JuliaPlugin/Assets/run_simulation.jl")
+#Base.include(Main, "D:/WS21/GameLabII-WS21/Plugin/code/UnityCode/JuliaPlugin/Assets/output.jl")
+#
+#Base.include(Main, "D:/WS21/GameLabII-WS21/Plugin/code/UnityCode/JuliaPlugin/Assets/reset_directory.jl")
+#
+#lines with "#" at the beginning are not included!
+#you can use "#" for commenting the file, just as you can see right now.
