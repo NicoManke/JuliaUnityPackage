@@ -18,5 +18,17 @@
     "email": "nicomanke.de@gmail.com",
     "url": "https://github.com/NicoManke"
   },
-  "type": "plugin"
+  "type": "plugin",
+  "samples": [
+        {
+            "displayName": "Inclusions.txt File",
+            "description": "References the Julia files in the JuliaScripts folder that need to be included.",
+            "path": "Samples~/StreamingAssets"
+        },
+        {
+            "displayName": "Julia Scripts Folder",
+            "description": "Contains Julia files that can be included. Needs to be placed in the project directory.",
+            "path": "Samples~/JuliaScripts"
+        }
+	]
 }
