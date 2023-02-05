@@ -1,2 +1,2 @@
 # Julia Unity Package
-A Unity Package for handling Data Models written in Julia.
+This package for the Unity engine allows the user to use and access code written in the Julia programming language.

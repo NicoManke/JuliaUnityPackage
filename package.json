@@ -21,12 +21,12 @@
   "type": "plugin",
   "samples": [
         {
-            "displayName": "Inclusions.txt File",
+            "displayName": "StreamingAssets",
             "description": "References the Julia files in the JuliaScripts folder that need to be included.",
             "path": "Samples~/StreamingAssets"
         },
         {
-            "displayName": "Julia Scripts Folder",
+            "displayName": "JuliaScripts",
             "description": "Contains Julia files that can be included. Needs to be placed in the project directory.",
             "path": "Samples~/JuliaScripts"
         }
