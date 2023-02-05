@@ -83,7 +83,7 @@ namespace JuliaPlugin
             GUILayout.Label("Documenatation", EditorStyles.boldLabel);
             if (GUILayout.Button("Open Package Documenatation", GUILayout.MaxWidth(_buttonsMaxWidth)))
             {
-                Application.OpenURL("https://gitlab2.informatik.uni-wuerzburg.de/GE/Teaching/gl2/projects/2021/24-gl2-manke/-/wikis/home");
+                Application.OpenURL("https://gitlab2.informatik.uni-wuerzburg.de/GE/Teaching/gl2/projects/2021/24-gl2-manke/-/wikis/Documentation/Julia-Unity-Package-Documentation");
             }
             #endregion
         }

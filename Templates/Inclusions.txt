@@ -1,0 +1,8 @@
+# include operations for Julia
+# place this file in your project's StreamingAssets folder
+# used for including Julia files placed in the JuliaScripts folder
+# use: filename.jl
+# lines cam either contain a valid Julia file (filename.jl) or start with '#'
+# lines with '#' at the beginning are not included!
+# you can use '#' for commenting the file, just as you can see right now.
+load_dependencies.jl
